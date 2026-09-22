@@ -1,0 +1,501 @@
+fasta_index,seq_id,accession,country,year,sequence_length,gc_content,ambiguous_bases,excel_regions,metadata_provenance,cluster
+0,PD363191.1_China_2000,PD363191.1,China,2000,2000,50.15,0,China,Excel_Verified,Cluster 6
+1,MF769811.1_China_2017,MF769811.1,China,2017,2000,50.3,0,China,Excel_Verified,Cluster 2
+2,MF769807.1_China_2018,MF769807.1,China,2018,2000,50.15,0,China,Excel_Verified,Cluster 6
+3,MT582241.1_China_2017,MT582241.1,China,2017,2000,50.25,0,China,Excel_Verified,Cluster 6
+4,NC_031753.1_USA_2015,NC_031753.1,USA,2015,2000,50.3,0,Absent_in_Excel,FASTA_Header_Only,Cluster 1
+5,PP067102.1_China_2023,PP067102.1,China,2023,2000,50.15,0,South Korea,Geography_Conflict_Excel,Cluster 2
+6,PZ311593.1_SouthKorea_2025,PZ311593.1,South Korea,2025,2000,50.4,0,China/South Korea,Geography_Conflict_Excel,Cluster 2
+7,PV764911.1_China_2023,PV764911.1,China,2023,2000,50.4,0,China,Excel_Verified,Cluster 2
+8,OP616730.1_NorthAmerica_2021,OP616730.1,N America,2021,2000,50.25,0,N America,Excel_Verified,Cluster 2
+9,OM818375.1_Italy_2021,OM818375.1,Italy,2021,2000,50.6,0,Italy,Excel_Verified,Cluster 3
+10,ON418890.1_Canada_2018,ON418890.1,Canada,2018,2000,50.4,0,Canada,Excel_Verified,Cluster 3
+11,ON015889.1_Hungary_2021,ON015889.1,Hungary,2021,2000,50.15,0,Hungary,Excel_Verified,Cluster 2
+12,ON015885.1_Hungary_2021,ON015885.1,Hungary,2021,2000,50.4,0,Hungary,Excel_Verified,Cluster 3
+13,ON015883.1_Hungary_2021,ON015883.1,Hungary,2021,2000,50.35,0,Hungary,Excel_Verified,Cluster 2
+14,MN848608.1_China_2019,MN848608.1,China,2019,2000,50.3,0,China,Excel_Verified,Cluster 6
+15,MN848602.1_China_2019,MN848602.1,China,2019,2000,50.05,0,China,Excel_Verified,Cluster 6
+16,MW453538.1_China_2020,MW453538.1,China,2020,2000,50.45,0,China,Excel_Verified,Cluster 3
+17,MW032262.1_China_2019,MW032262.1,China,2019,2000,50.4,0,China,Excel_Verified,Cluster 6
+18,MW168693.1_SouthKorea_2021,MW168693.1,South Korea,2021,2000,50.4,0,South Korea,Excel_Verified,Cluster 3
+19,MG868940.1_China_2017,MG868940.1,China,2017,1999,50.28,0,China,Excel_Verified,Cluster 6
+20,MT104510.1_China_2018,MT104510.1,China,2018,2000,50.3,0,China,Excel_Verified,Cluster 1
+21,MF805722.1_Italy_2016,MF805722.1,Italy,2016,2000,50.25,0,Italy,Excel_Verified,Cluster 2
+22,MF805719.1_Italy_2017,MF805719.1,Italy,2017,2000,50.3,0,Italy,Excel_Verified,Cluster 2
+23,OM818376.1_Italy_2021,OM818376.1,Italy,2021,2000,50.0,0,Italy,Excel_Verified,Cluster 3
+24,PQ468882.1_Italy_2023,PQ468882.1,Italy,2023,2000,50.3,0,Italy,Excel_Verified,Cluster 3
+25,MN781192.1_Italy_2019,MN781192.1,Italy,2019,2000,50.35,0,Italy,Excel_Verified,Cluster 3
+26,MH558676.1_Spain_2012,MH558676.1,Spain,2012,2000,50.25,0,Spain,Excel_Verified,Cluster 1
+27,MF805720.1_Spain_2017,MF805720.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+28,MF805723.1_Denmark_2017,MF805723.1,Denmark,2017,2000,50.3,0,Denmark,Excel_Verified,Cluster 3
+29,MF805724.1_Denmark_2017,MF805724.1,Denmark,2017,2000,50.45,0,Denmark,Excel_Verified,Cluster 3
+30,OQ754381.1_Italy_2021,OQ754381.1,Italy,2021,2000,50.2,0,Italy,Excel_Verified,Cluster 4
+31,OQ754383.1_Italy_2021,OQ754383.1,Italy,2021,2000,50.35,0,Italy,Excel_Verified,Cluster 4
+32,MF162299.1_Italy_2017,MF162299.1,Italy,2017,2000,50.4,0,Italy,Excel_Verified,Cluster 2
+33,PQ468885.1_Italy_2023,PQ468885.1,Italy,2023,2000,50.55,0,Italy,Excel_Verified,Cluster 3
+34,PZ311601.1_SouthKorea_2025,PZ311601.1,South Korea,2025,2000,50.35,0,South Korea,Excel_Verified,Cluster 2
+35,MF063071.1_SouthKorea_2016,MF063071.1,South Korea,2016,2000,50.35,0,South Korea,Excel_Verified,Cluster 1
+36,PP965278.1_SouthKorea_2022,PP965278.1,South Korea,2022,2000,50.25,0,South Korea,Excel_Verified,Cluster 3
+37,PP965277.1_SouthKorea_2021,PP965277.1,South Korea,2021,2000,50.35,0,South Korea,Excel_Verified,Cluster 1
+38,MN698824.1_SouthKorea_2019,MN698824.1,South Korea,2019,2000,50.4,0,South Korea,Excel_Verified,Cluster 6
+39,MN698820.1_SouthKorea_2018,MN698820.1,South Korea,2018,2000,50.35,0,South Korea,Excel_Verified,Cluster 1
+40,MN698816.1_SouthKorea_2017,MN698816.1,South Korea,2017,2000,50.4,0,South Korea,Excel_Verified,Cluster 1
+41,MN698814.1_SouthKorea_2016,MN698814.1,South Korea,2016,2000,50.3,0,South Korea,Excel_Verified,Cluster 2
+42,MN698811.1_SouthKorea_2015,MN698811.1,South Korea,2015,2000,50.1,0,South Korea,Excel_Verified,Cluster 6
+43,MN698792.1_SouthKorea_2009,MN698792.1,South Korea,2009,2000,50.25,0,South Korea,Excel_Verified,Cluster 1
+44,MN698795.1_SouthKorea_2010,MN698795.1,South Korea,2010,2000,50.25,0,South Korea,Excel_Verified,Cluster 6
+45,MN698798.1_SouthKorea_2011,MN698798.1,South Korea,2011,2000,50.25,0,South Korea,Excel_Verified,Cluster 6
+46,MN698801.1_SouthKorea_2012,MN698801.1,South Korea,2012,2000,50.05,0,South Korea,Excel_Verified,Cluster 6
+47,MN698804.1_SouthKorea_2013,MN698804.1,South Korea,2013,2000,50.25,0,South Korea,Excel_Verified,Cluster 6
+48,MN698808.1_SouthKorea_2014,MN698808.1,South Korea,2014,2000,50.1,0,South Korea,Excel_Verified,Cluster 1
+49,LC383841.1_Japan_2016,LC383841.1,Japan,2016,2000,50.2,0,Japan,Excel_Verified,Cluster 2
+50,LC383840.1_Japan_2016,LC383840.1,Japan,2016,2000,50.2,0,Japan,Excel_Verified,Cluster 2
+51,LC269727.1_Japan_2016,LC269727.1,Japan,2016,2000,50.35,0,Japan,Excel_Verified,Cluster 2
+52,MG595741.1_Hungary_2017,MG595741.1,Hungary,2017,2000,50.2,0,Hungary,Excel_Verified,Cluster 6
+53,ON015882.1_Hungary_2021,ON015882.1,Hungary,2021,2000,50.3,0,Hungary,Excel_Verified,Cluster 2
+54,ON015884.1_Hungary_2021,ON015884.1,Hungary,2021,2000,50.25,0,Hungary,Excel_Verified,Cluster 2
+55,ON015886.1_Hungary_2021,ON015886.1,Hungary,2021,2000,50.35,0,Hungary,Excel_Verified,Cluster 3
+56,ON015887.1_Hungary_2021,ON015887.1,Hungary,2021,2000,50.45,0,Hungary,Excel_Verified,Cluster 3
+57,ON015888.1_Hungary_2021,ON015888.1,Hungary,2021,2000,50.5,0,Hungary,Excel_Verified,Cluster 3
+58,ON015890.1_Hungary_2021,ON015890.1,Hungary,2021,2000,50.3,0,Hungary,Excel_Verified,Cluster 6
+59,MH823219.1_NorthAmerica_2018,MH823219.1,N America,2018,2000,50.65,0,N America,Excel_Verified,Cluster 6
+60,MT183690.1_China_2019,MT183690.1,China,2019,2000,50.1,0,N America,Geography_Conflict_Excel,Cluster 6
+61,MN725086.1_Malaysia_2019,MN725086.1,Malaysia,2019,2000,49.95,0,Malaysia,Excel_Verified,Cluster 6
+62,MN725085.1_Malaysia_2019,MN725085.1,Malaysia,2019,2000,50.1,0,Malaysia,Excel_Verified,Cluster 6
+63,MN725084.1_Malaysia_2019,MN725084.1,Malaysia,2019,2000,50.25,0,Absent_in_Excel,FASTA_Header_Only,Cluster 6
+64,MN725083.1_Malaysia_2019,MN725083.1,Malaysia,2019,2000,50.05,0,Malaysia,Excel_Verified,Cluster 6
+65,MN725082.1_Malaysia_2019,MN725082.1,Malaysia,2019,2000,50.2,0,Malaysia,Excel_Verified,Cluster 2
+66,MN725080.1_Malaysia_2018,MN725080.1,Malaysia,2018,2000,50.45,0,Malaysia,Excel_Verified,Cluster 2
+67,KX458235.1_USA_2015,KX458235.1,USA,2015,2000,50.15,0,USA,Excel_Verified,Cluster 6
+68,KT869077.1_USA_2015,KT869077.1,USA,2015,2000,50.3,0,USA,Excel_Verified,Cluster 1
+69,PZ311596.1_SouthKorea_2025,PZ311596.1,South Korea,2025,2000,50.4,0,South Korea,Excel_Verified,Cluster 2
+70,PZ311594.1_SouthKorea_2025,PZ311594.1,South Korea,2025,2000,50.3,0,South Korea,Excel_Verified,Cluster 6
+71,OQ754397.1_Italy_2022,OQ754397.1,Italy,2022,2000,49.95,0,Italy,Excel_Verified,Cluster 4
+72,OQ754396.1_Italy_2021,OQ754396.1,Italy,2021,2000,50.65,0,Italy,Excel_Verified,Cluster 7
+73,OQ754395.1_Italy_2021,OQ754395.1,Italy,2021,2000,50.5,0,Italy,Excel_Verified,Cluster 7
+74,OQ754394.1_Italy_2021,OQ754394.1,Italy,2021,2000,50.5,0,Italy,Excel_Verified,Cluster 7
+75,OQ754393.1_Italy_2021,OQ754393.1,Italy,2021,2000,50.75,0,Italy,Excel_Verified,Cluster 4
+76,OQ754392.1_Italy_2022,OQ754392.1,Italy,2022,2000,50.25,0,Italy,Excel_Verified,Cluster 4
+77,OQ754383.1_Italy_2022,OQ754383.1,Italy,2022,2000,50.35,0,Italy,Excel_Verified,Cluster 4
+78,OQ754382.1_Italy_2021,OQ754382.1,Italy,2021,2000,50.25,0,Italy,Excel_Verified,Cluster 4
+79,OQ754380.1_Italy_2021,OQ754380.1,Italy,2021,2000,50.4,0,Italy,Excel_Verified,Cluster 4
+80,OQ754379.1_Italy_2021,OQ754379.1,Italy,2021,2000,50.5,0,Italy,Excel_Verified,Cluster 4
+81,OP616729.1_NorthAmerica_2021,OP616729.1,N America,2021,1999,50.18,0,N America,Excel_Verified,Cluster 2
+82,OM818374.1_Italy_2021,OM818374.1,Italy,2021,2000,50.05,0,Italy,Excel_Verified,Cluster 3
+83,OP616728.1_NorthAmerica_2021,OP616728.1,N America,2021,2000,50.2,0,N America,Excel_Verified,Cluster 2
+84,OP616727.1_NorthAmerica_2020,OP616727.1,N America,2020,2000,50.35,0,N America,Excel_Verified,Cluster 2
+85,OP616726.1_NorthAmerica_2020,OP616726.1,N America,2020,2000,50.2,0,N America,Excel_Verified,Cluster 2
+86,OP616725.1_NorthAmerica_2020,OP616725.1,N America,2020,2000,50.3,0,N America,Excel_Verified,Cluster 2
+87,OP616724.1_NorthAmerica_2020,OP616724.1,N America,2020,2000,50.2,0,N America,Excel_Verified,Cluster 2
+88,OP616723.1_NorthAmerica_2020,OP616723.1,N America,2020,2000,50.2,0,N America,Excel_Verified,Cluster 2
+89,OP616722.1_NorthAmerica_2021,OP616722.1,N America,2021,2000,50.3,0,N America,Excel_Verified,Cluster 2
+90,OP616721.1_NorthAmerica_2021,OP616721.1,N America,2021,2000,50.15,0,N America,Excel_Verified,Cluster 2
+91,OP616720.1_NorthAmerica_2021,OP616720.1,N America,2021,2000,50.2,0,N America,Excel_Verified,Cluster 2
+92,OM818373.1_Italy_2021,OM818373.1,Italy,2021,2000,50.4,0,Italy,Excel_Verified,Cluster 3
+93,OM818372.1_Italy_2021,OM818372.1,Italy,2021,2000,50.45,0,Italy,Excel_Verified,Cluster 3
+94,OM818371.1_Italy_2021,OM818371.1,Italy,2021,2000,50.2,0,Italy,Excel_Verified,Cluster 3
+95,ON418889.1_Canada_2018,ON418889.1,Canada,2018,2000,50.25,0,Canada,Excel_Verified,Cluster 6
+96,ON418888.1_Canada_2018,ON418888.1,Canada,2018,2000,50.25,0,Canada,Excel_Verified,Cluster 6
+97,MT847026.1_Vietnam_2018,MT847026.1,Vietnam,2018,2000,50.4,0,Vietnam,Excel_Verified,Cluster 2
+98,MT407372.1_Colombia_2018,MT407372.1,Colombia,2018,2000,50.15,0,Colombia,Excel_Verified,Cluster 3
+99,MT075519.1_Brazil_2018,MT075519.1,Brazil,2018,2000,50.4,0,Brazil,Excel_Verified,Cluster 2
+100,MT075518.1_Brazil_2017,MT075518.1,Brazil,2017,2000,50.4,0,Brazil,Excel_Verified,Cluster 2
+101,MT075517.1_Brazil_2017,MT075517.1,Brazil,2017,2000,50.4,0,Brazil,Excel_Verified,Cluster 2
+102,MT461294.1_Colombia_2018,MT461294.1,Colombia,2018,2000,50.3,0,Colombia,Excel_Verified,Cluster 6
+103,MT461293.1_Colombia_2015,MT461293.1,Colombia,2015,2000,50.4,0,Colombia,Excel_Verified,Cluster 3
+104,MT461292.1_Colombia_2018,MT461292.1,Colombia,2018,2000,50.35,0,Colombia,Excel_Verified,Cluster 6
+105,MT375541.1_Colombia_2015,MT375541.1,Colombia,2015,2000,50.4,0,Colombia,Excel_Verified,Cluster 3
+106,MT375540.1_Colombia_2018,MT375540.1,Colombia,2018,2000,50.35,0,Colombia,Excel_Verified,Cluster 2
+107,MT347692.1_Colombia_2019,MT347692.1,Colombia,2019,2000,50.1,0,Colombia,Excel_Verified,Cluster 2
+108,MN698823.1_SouthKorea_2019,MN698823.1,South Korea,2019,2000,50.4,0,South Korea,Excel_Verified,Cluster 6
+109,MN698822.1_SouthKorea_2019,MN698822.1,South Korea,2019,2000,50.35,0,South Korea,Excel_Verified,Cluster 6
+110,MN698821.1_SouthKorea_2018,MN698821.1,South Korea,2018,2000,50.3,0,South Korea,Excel_Verified,Cluster 1
+111,MN698819.1_SouthKorea_2018,MN698819.1,South Korea,2018,2000,50.35,0,South Korea,Excel_Verified,Cluster 1
+112,MN698818.1_SouthKorea_2017,MN698818.1,South Korea,2017,2000,50.4,0,South Korea,Excel_Verified,Cluster 1
+113,MN698817.1_SouthKorea_2017,MN698817.1,South Korea,2017,2000,50.35,0,South Korea,Excel_Verified,Cluster 1
+114,MN698815.1_SouthKorea_2016,MN698815.1,South Korea,2016,2000,50.25,0,South Korea,Excel_Verified,Cluster 6
+115,MN698813.1_SouthKorea_2016,MN698813.1,South Korea,2016,2000,50.3,0,South Korea,Excel_Verified,Cluster 1
+116,MN698812.1_SouthKorea_2015,MN698812.1,South Korea,2015,2000,50.15,0,South Korea,Excel_Verified,Cluster 6
+117,MN698810.1_SouthKorea_2015,MN698810.1,South Korea,2015,2000,50.05,0,South Korea,Excel_Verified,Cluster 6
+118,MN698809.1_SouthKorea_2014,MN698809.1,South Korea,2014,2000,50.25,0,South Korea,Excel_Verified,Cluster 2
+119,MN698807.1_SouthKorea_2014,MN698807.1,South Korea,2014,2000,50.2,0,South Korea,Excel_Verified,Cluster 1
+120,MN698806.1_SouthKorea_2013,MN698806.1,South Korea,2013,2000,50.15,0,South Korea,Excel_Verified,Cluster 1
+121,MN698805.1_SouthKorea_2013,MN698805.1,South Korea,2013,2000,50.2,0,South Korea,Excel_Verified,Cluster 1
+122,MN698803.1_SouthKorea_2012,MN698803.1,South Korea,2012,2000,50.1,0,South Korea,Excel_Verified,Cluster 6
+123,MN698802.1_SouthKorea_2012,MN698802.1,South Korea,2012,2000,50.1,0,South Korea,Excel_Verified,Cluster 6
+124,MN698800.1_SouthKorea_2011,MN698800.1,South Korea,2011,2000,50.45,0,South Korea,Excel_Verified,Cluster 1
+125,MN698801.1_SouthKorea_2012,MN698801.1,South Korea,2012,2000,50.05,0,South Korea,Excel_Verified,Cluster 6
+126,MN698799.1_SouthKorea_2011,MN698799.1,South Korea,2011,2000,50.15,0,South Korea,Excel_Verified,Cluster 6
+127,MN698797.1_SouthKorea_2010,MN698797.1,South Korea,2010,2000,50.2,0,South Korea,Excel_Verified,Cluster 1
+128,MN698796.1_SouthKorea_2010,MN698796.1,South Korea,2010,2000,50.4,0,South Korea,Excel_Verified,Cluster 1
+129,MN698794.1_SouthKorea_2009,MN698794.1,South Korea,2009,2000,50.25,0,South Korea,Excel_Verified,Cluster 1
+130,MN698793.1_SouthKorea_2009,MN698793.1,South Korea,2009,2000,50.25,0,South Korea,Excel_Verified,Cluster 1
+131,MT350555.1_Spain_2017,MT350555.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+132,MT350553.1_Spain_2017,MT350553.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+133,MT350552.1_Spain_2017,MT350552.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+134,MT350551.1_Spain_2017,MT350551.1,Spain,2017,2000,50.25,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+135,MT350550.1_Spain_2017,MT350550.1,Spain,2017,2000,50.2,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+136,MT350549.1_Spain_2017,MT350549.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+137,MT350548.1_Spain_2017,MT350548.1,Spain,2017,2000,50.3,0,Spain,Excel_Verified,Cluster 2
+138,MT350547.1_Spain_2017,MT350547.1,Spain,2017,2000,50.15,0,Spain,Excel_Verified,Cluster 2
+139,MT350546.1_Spain_2017,MT350546.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+140,MT350545.1_Spain_2017,MT350545.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+141,MT350544.1_Spain_2017,MT350544.1,Spain,2017,2000,50.3,0,Spain,Excel_Verified,Cluster 2
+142,MT350543.1_Spain_2017,MT350543.1,Spain,2017,2000,50.3,0,Spain,Excel_Verified,Cluster 2
+143,MT350542.1_Spain_2017,MT350542.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+144,MT350541.1_Spain_2017,MT350541.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+145,MT350540.1_Spain_2017,MT350540.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+146,MT350539.1_Spain_2017,MT350539.1,Spain,2017,2000,50.2,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+147,MT350538.1_Spain_2017,MT350538.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+148,MT350537.1_Spain_2017,MT350537.1,Spain,2017,2000,50.15,0,Spain,Excel_Verified,Cluster 2
+149,MT350536.1_Spain_2017,MT350536.1,Spain,2017,2000,50.3,0,Spain,Excel_Verified,Cluster 2
+150,MT350535.1_Spain_2017,MT350535.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+151,MT350534.1_Spain_2017,MT350534.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+152,MT350533.1_Spain_2017,MT350533.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+153,MT350532.1_Spain_2017,MT350532.1,Spain,2017,2000,50.15,0,Spain,Excel_Verified,Cluster 2
+154,MT350531.1_Spain_2017,MT350531.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+155,MT350530.1_Spain_2017,MT350530.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+156,MT350529.1_Spain_2017,MT350529.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+157,MT350528.1_Spain_2017,MT350528.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+158,MT350527.1_Spain_2017,MT350527.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+159,MT350526.1_Spain_2017,MT350526.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+160,MT350525.1_Spain_2017,MT350525.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+161,MT350524.1_Spain_2017,MT350524.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+162,MT350523.1_Spain_2017,MT350523.1,Spain,2017,2000,50.15,0,Spain,Excel_Verified,Cluster 2
+163,MT350522.1_Spain_2017,MT350522.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+164,MT350521.1_Spain_2017,MT350521.1,Spain,2017,2000,50.3,0,Spain,Excel_Verified,Cluster 2
+165,MT350520.1_Spain_2017,MT350520.1,Spain,2017,2000,50.2,0,Spain,Excel_Verified,Cluster 2
+166,MT350519.1_Spain_2017,MT350519.1,Spain,2017,2000,50.1,0,Spain,Excel_Verified,Cluster 2
+167,MT350518.1_Spain_2017,MT350518.1,Spain,2017,2000,50.25,0,Spain,Excel_Verified,Cluster 2
+168,MT350517.1_Spain_2017,MT350517.1,Spain,2017,2000,50.1,0,Spain,Excel_Verified,Cluster 2
+169,MN507536.1_Taiwan_2018,MN507536.1,Taiwan,2018,2000,50.15,0,Taiwan,Excel_Verified,Cluster 6
+170,MN510467.1_Taiwan_2016,MN510467.1,Taiwan,2016,2000,50.2,0,Taiwan,Excel_Verified,Cluster 6
+171,MN510466.1_Taiwan_2016,MN510466.1,Taiwan,2016,2000,50.25,0,Taiwan,Excel_Verified,Cluster 6
+172,MK934768.1_India_2018,MK934768.1,India,2018,2000,50.45,0,India,Excel_Verified,Cluster 3
+173,MK934767.1_India_2017,MK934767.1,India,2017,2000,50.5,0,India,Excel_Verified,Cluster 3
+174,MK934766.1_India_2017,MK934766.1,India,2017,2000,50.4,0,India,Excel_Verified,Cluster 3
+175,MK934765.1_India_2017,MK934765.1,India,2017,2000,50.35,0,India,Excel_Verified,Cluster 6
+176,MK585353.1_Malaysia_2018,MK585353.1,Malaysia,2018,2000,50.1,0,Malaysia,Excel_Verified,Cluster 6
+177,MK585352.1_Malaysia_2017,MK585352.1,Malaysia,2017,2000,50.0,0,Malaysia,Excel_Verified,Cluster 6
+178,MK585351.1_Malaysia_2017,MK585351.1,Malaysia,2017,2000,50.2,0,Malaysia,Excel_Verified,Cluster 6
+179,MK585350.1_Malaysia_2017,MK585350.1,Malaysia,2017,2000,50.4,0,Malaysia,Excel_Verified,Cluster 2
+180,MK585349.1_Malaysia_2017,MK585349.1,Malaysia,2017,2000,50.2,0,Malaysia,Excel_Verified,Cluster 2
+181,MK585347.1_Malaysia_2017,MK585347.1,Malaysia,2017,2000,50.1,0,Malaysia,Excel_Verified,Cluster 6
+182,MH603565.1_USA_2017,MH603565.1,USA,2017,2000,50.2,0,USA,Excel_Verified,Cluster 6
+183,MH603564.1_USA_2017,MH603564.1,USA,2017,2000,50.1,0,USA,Excel_Verified,Cluster 6
+184,MH603563.1_USA_2017,MH603563.1,USA,2017,2000,50.15,0,USA,Excel_Verified,Cluster 6
+185,MH603562.1_USA_2017,MH603562.1,USA,2017,2000,50.15,0,USA,Excel_Verified,Cluster 6
+186,MH603561.1_USA_2017,MH603561.1,USA,2017,2000,50.05,0,USA,Excel_Verified,Cluster 5
+187,MH603560.1_USA_2017,MH603560.1,USA,2017,2000,50.25,0,USA,Excel_Verified,Cluster 6
+188,MH603559.1_USA_2017,MH603559.1,USA,2017,2000,50.15,0,USA,Excel_Verified,Cluster 6
+189,MH603558.1_USA_2017,MH603558.1,USA,2017,2000,50.1,0,USA,Excel_Verified,Cluster 5
+190,MH603557.1_USA_2017,MH603557.1,USA,2017,2000,50.25,0,USA,Excel_Verified,Cluster 1
+191,MH603556.1_USA_2017,MH603556.1,USA,2017,2000,50.4,0,USA,Excel_Verified,Cluster 5
+192,MH603555.1_USA_2017,MH603555.1,USA,2017,2000,50.35,0,USA,Excel_Verified,Cluster 6
+193,MH603554.1_USA_2017,MH603554.1,USA,2017,2000,50.35,0,USA,Excel_Verified,Cluster 2
+194,MH603553.1_USA_2017,MH603553.1,USA,2017,2000,50.35,0,USA,Excel_Verified,Cluster 2
+195,MH603552.1_USA_2017,MH603552.1,USA,2017,2000,50.1,0,USA,Excel_Verified,Cluster 6
+196,MH603551.1_USA_2017,MH603551.1,USA,2017,2000,50.15,0,USA,Excel_Verified,Cluster 5
+197,MH603550.1_USA_2017,MH603550.1,USA,2017,2000,50.25,0,USA,Excel_Verified,Cluster 6
+198,MH603549.1_USA_2017,MH603549.1,USA,2017,2000,50.45,0,USA,Excel_Verified,Cluster 6
+199,MH603548.1_USA_2017,MH603548.1,USA,2017,2000,50.3,0,USA,Excel_Verified,Cluster 6
+200,MH603547.1_USA_2017,MH603547.1,USA,2017,2000,50.05,0,USA,Excel_Verified,Cluster 6
+201,MH603546.1_USA_2017,MH603546.1,USA,2017,2000,50.15,0,USA,Excel_Verified,Cluster 6
+202,MH603545.1_USA_2017,MH603545.1,USA,2017,2000,50.25,0,USA,Excel_Verified,Cluster 6
+203,MH603544.1_USA_2021,MH603544.1,USA,2021,2000,50.05,0,USA,Excel_Verified,Cluster 5
+204,MH603543.1_USA_2017,MH603543.1,USA,2017,2000,50.2,0,USA,Excel_Verified,Cluster 6
+205,MH603542.1_USA_2017,MH603542.1,USA,2017,2000,50.4,0,USA,Excel_Verified,Cluster 1
+206,MH603541.1_USA_2017,MH603541.1,USA,2017,2000,50.3,0,USA,Excel_Verified,Cluster 6
+207,MH603539.1_USA_2017,MH603539.1,USA,2017,2000,50.35,0,USA,Excel_Verified,Cluster 6
+208,MH603540.1_USA_2017,MH603540.1,USA,2017,2000,50.2,0,USA,Excel_Verified,Cluster 6
+209,MH603538.1_USA_2017,MH603538.1,USA,2017,2000,50.1,0,USA,Excel_Verified,Cluster 5
+210,MH603537.1_USA_2017,MH603537.1,USA,2017,2000,50.3,0,USA,Excel_Verified,Cluster 2
+211,MH603536.1_USA_2017,MH603536.1,USA,2017,2000,50.2,0,USA,Excel_Verified,Cluster 6
+212,MH603535.1_USA_2017,MH603535.1,USA,2017,2000,50.1,0,USA,Excel_Verified,Cluster 6
+213,MH603534.1_USA_2017,MH603534.1,USA,2017,2000,50.15,0,USA,Excel_Verified,Cluster 6
+214,MH603533.1_USA_2017,MH603533.1,USA,2017,2000,50.05,0,USA,Excel_Verified,Cluster 5
+215,MK496297.1_USA_2018,MK496297.1,USA,2018,2000,50.4,0,USA,Excel_Verified,Cluster 2
+216,MK496296.1_USA_2018,MK496296.1,USA,2018,2000,50.0,0,USA,Excel_Verified,Cluster 5
+217,MK496295.1_USA_2018,MK496295.1,USA,2018,2000,50.2,0,USA,Excel_Verified,Cluster 5
+218,MK496294.1_USA_2018,MK496294.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 6
+219,MK496293.1_USA_2018,MK496293.1,USA,2018,2000,50.35,0,USA,Excel_Verified,Cluster 6
+220,MK496292.1_USA_2018,MK496292.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 2
+221,MK496291.1_USA_2018,MK496291.1,USA,2018,2000,50.2,0,USA,Excel_Verified,Cluster 2
+222,MK496290.1_USA_2018,MK496290.1,USA,2018,2000,50.15,0,USA,Excel_Verified,Cluster 6
+223,MK496289.1_USA_2018,MK496289.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 6
+224,MK496288.1_USA_2018,MK496288.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 6
+225,MK496287.1_USA_2018,MK496287.1,USA,2018,2000,50.4,0,USA,Excel_Verified,Cluster 1
+226,MK496286.1_USA_2018,MK496286.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 2
+227,MK496285.1_USA_2018,MK496285.1,USA,2018,2000,50.1,0,USA,Excel_Verified,Cluster 6
+228,MK496284.1_USA_2018,MK496284.1,USA,2018,2000,50.2,0,USA,Excel_Verified,Cluster 6
+229,MK496283.1_USA_2018,MK496283.1,USA,2018,2000,50.05,0,USA,Excel_Verified,Cluster 5
+230,MK496282.1_USA_2018,MK496282.1,USA,2018,2000,50.15,0,USA,Excel_Verified,Cluster 5
+231,MK496281.1_USA_2018,MK496281.1,USA,2018,2000,50.4,0,USA,Excel_Verified,Cluster 6
+232,MK496280.1_USA_2018,MK496280.1,USA,2018,2000,50.05,0,USA,Excel_Verified,Cluster 6
+233,MK496279.1_USA_2018,MK496279.1,USA,2018,2000,50.2,0,USA,Excel_Verified,Cluster 6
+234,MK496278.1_USA_2018,MK496278.1,USA,2018,2000,50.3,0,USA,Excel_Verified,Cluster 6
+235,MK496277.1_USA_2018,MK496277.1,USA,2018,2000,50.2,0,USA,Excel_Verified,Cluster 2
+236,MK496276.1_USA_2018,MK496276.1,USA,2018,2000,50.3,0,USA,Excel_Verified,Cluster 2
+237,MK496275.1_USA_2018,MK496275.1,USA,2018,2000,50.05,0,USA,Excel_Verified,Cluster 5
+238,MK496274.1_USA_2018,MK496274.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 2
+239,MK496273.1_USA_2018,MK496273.1,USA,2018,2000,50.0,0,USA,Excel_Verified,Cluster 6
+240,MK496272.1_USA_2018,MK496272.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 6
+241,MK496271.1_USA_2018,MK496271.1,USA,2018,2000,50.15,0,USA,Excel_Verified,Cluster 1
+242,MK496270.1_USA_2018,MK496270.1,USA,2018,2000,50.2,0,USA,Excel_Verified,Cluster 6
+243,MK496269.1_USA_2018,MK496269.1,USA,2018,2000,50.05,0,USA,Excel_Verified,Cluster 1
+244,MK568470.1_USA_2018,MK568470.1,USA,2018,2000,50.35,0,USA,Excel_Verified,Cluster 2
+245,MK820624.1_Germany_2018,MK820624.1,Germany,2018,2000,50.3,0,Germany,Excel_Verified,Cluster 6
+246,MK568469.1_USA_2018,MK568469.1,USA,2018,2000,50.0,0,Absent_in_Excel,FASTA_Header_Only,Cluster 1
+247,MK058529.1_USA_2018,MK058529.1,USA,2018,2000,50.25,0,USA,Excel_Verified,Cluster 6
+248,MK058528.1_USA_2018,MK058528.1,USA,2018,2000,50.25,0,Absent_in_Excel,FASTA_Header_Only,Cluster 6
+249,MH699985.1_Brazil_2019,MH699985.1,Brazil,2019,2000,50.4,0,Absent_in_Excel,FASTA_Header_Only,Cluster 3
+250,MH327785.1_Colombia_2018,MH327785.1,Colombia,2018,2000,50.15,0,Colombia,Excel_Verified,Cluster 2
+251,MH229786.1_Thailand_2017,MH229786.1,Thailand,2017,2000,50.45,0,Thailand,Excel_Verified,Cluster 2
+252,MH327784.1_Colombia_2018,MH327784.1,Colombia,2018,2000,50.3,0,Absent_in_Excel,FASTA_Header_Only,Cluster 3
+253,MH192341.1_Mexico_2017,MH192341.1,Mexico,2017,2006,50.15,0,Mexico,Excel_Verified,Cluster 6
+254,MH579747.1_Spain_2018,MH579747.1,Spain,2018,2000,50.3,0,Spain,Excel_Verified,Cluster 3
+255,MH579746.1_Spain_2017,MH579746.1,Spain,2017,2000,50.3,0,Spain,Excel_Verified,Cluster 6
+256,MH579745.1_Spain_2016,MH579745.1,Spain,2016,2000,50.3,0,Spain,Excel_Verified,Cluster 3
+257,MH579744.1_Spain_2015,MH579744.1,Spain,2015,2000,50.3,0,Spain,Excel_Verified,Cluster 3
+258,MH579743.1_Spain_2014,MH579743.1,Spain,2014,2000,50.15,0,Spain,Excel_Verified,Cluster 3
+259,MH579742.1_Spain_2013,MH579742.1,Spain,2013,2000,50.4,0,Spain,Excel_Verified,Cluster 3
+260,MH579741.1_Spain_2012,MH579741.1,Spain,2012,2000,50.2,0,Spain,Excel_Verified,Cluster 3
+261,MH579740.1_Spain_2011,MH579740.1,Spain,2011,2000,50.5,0,Spain,Excel_Verified,Cluster 3
+262,MH579739.1_Spain_2010,MH579739.1,Spain,2010,2000,50.25,0,Spain,Excel_Verified,Cluster 3
+263,MH579738.1_Spain_2007,MH579738.1,Spain,2007,2000,50.5,1,Spain,Excel_Verified,Cluster 3
+264,MH579737.1_Spain_2006,MH579737.1,Spain,2006,2000,50.2,0,Spain,Excel_Verified,Cluster 3
+265,MH579736.1_Spain_2005,MH579736.1,Spain,2005,2000,50.35,0,Spain,Excel_Verified,Cluster 3
+266,MF079254.1_Brazil_2016,MF079254.1,Brazil,2016,2000,50.35,0,Brazil,Excel_Verified,Cluster 2
+267,MF079253.1_Brazil_2016,MF079253.1,Brazil,2016,2000,50.4,0,Brazil,Excel_Verified,Cluster 1
+268,MG679917.1_Russia_2017,MG679917.1,Russia,2017,2000,50.35,0,Russia,Excel_Verified,Cluster 6
+269,MG679916.1_Russia_2017,MG679916.1,Russia,2017,2000,50.25,0,Russia,Excel_Verified,Cluster 6
+270,MF448446.1_SouthKorea_2017,MF448446.1,South Korea,2017,2000,50.45,0,South Korea,Excel_Verified,Cluster 2
+271,MF448445.1_SouthKorea_2017,MF448445.1,South Korea,2017,2000,50.15,0,South Korea,Excel_Verified,Cluster 3
+272,MF063070.1_SouthKorea_2017,MF063070.1,South Korea,2017,2000,50.35,0,South Korea,Excel_Verified,Cluster 6
+273,MF611878.1_SouthKorea_2017,MF611878.1,South Korea,2017,2000,50.35,0,South Korea,Excel_Verified,Cluster 6
+274,MG765473.1_Sweden_2004,MG765473.1,Sweden,2004,2000,50.15,0,Sweden,Excel_Verified,Cluster 6
+275,MF805724.1_Denmark_2017,MF805724.1,Denmark,2017,2000,50.45,0,Denmark,Excel_Verified,Cluster 3
+276,MF805721.1_Italy_2016,MF805721.1,Italy,2016,2000,50.35,0,Italy,Excel_Verified,Cluster 2
+277,MG310152.1_Thailand_2017,MG310152.1,Thailand,2017,2000,50.35,0,Thailand,Excel_Verified,Cluster 1
+278,MG014376.1_Germany_2015,MG014376.1,Germany,2015,2000,50.2,0,Germany,Excel_Verified,Cluster 3
+279,MG014375.1_Germany_2015,MG014375.1,Germany,2015,2000,50.25,0,Germany,Excel_Verified,Cluster 2
+280,MG014374.1_Germany_2015,MG014374.1,Germany,2015,2000,50.25,0,Germany,Excel_Verified,Cluster 3
+281,MG014373.1_Germany_2015,MG014373.1,Germany,2015,2000,50.3,0,Germany,Excel_Verified,Cluster 6
+282,MG014372.1_Germany_2015,MG014372.1,Germany,2015,1999,50.23,0,Germany,Excel_Verified,Cluster 6
+283,MG014371.1_Germany_2015,MG014371.1,Germany,2015,2000,50.6,0,Germany,Excel_Verified,Cluster 3
+284,MG014370.1_Germany_2015,MG014370.1,Germany,2015,2000,50.3,0,Germany,Excel_Verified,Cluster 1
+285,MG014369.1_Germany_2015,MG014369.1,Germany,2015,2001,50.07,0,Germany,Excel_Verified,Cluster 6
+286,MG014368.1_Germany_2015,MG014368.1,Germany,2015,2000,50.2,0,Germany,Excel_Verified,Cluster 5
+287,MG014367.1_Germany_2015,MG014367.1,Germany,2015,2000,49.9,0,Germany,Excel_Verified,Cluster 3
+288,MG014366.1_Germany_2015,MG014366.1,Germany,2015,2000,50.15,1,Germany,Excel_Verified,Cluster 3
+289,MG014365.1_Germany_2015,MG014365.1,Germany,2015,2000,50.1,0,Germany,Excel_Verified,Cluster 2
+290,MG014364.1_Germany_2015,MG014364.1,Germany,2015,2000,50.35,0,Germany,Excel_Verified,Cluster 2
+291,MG014363.1_Germany_2015,MG014363.1,Germany,2015,2000,50.5,0,Germany,Excel_Verified,Cluster 3
+292,MG014362.1_Germany_2015,MG014362.1,Germany,2015,2000,50.45,0,Germany,Excel_Verified,Cluster 6
+293,MF162298.1_Italy_2017,MF162298.1,Italy,2017,2000,50.4,0,Italy,Excel_Verified,Cluster 2
+294,MF611877.1_SouthKorea_2016,MF611877.1,South Korea,2016,2000,50.35,0,South Korea,Excel_Verified,Cluster 1
+295,MF611876.1_SouthKorea_2016,MF611876.1,South Korea,2016,2000,50.4,0,South Korea,Excel_Verified,Cluster 1
+296,KY996345.1_SouthKorea_2016,KY996345.1,South Korea,2016,2000,50.25,0,South Korea,Excel_Verified,Cluster 6
+297,KY996344.1_SouthKorea_2016,KY996344.1,South Korea,2016,2000,50.4,0,South Korea,Excel_Verified,Cluster 6
+298,KY996343.1_SouthKorea_2016,KY996343.1,South Korea,2016,2000,50.3,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+299,KY996342.1_SouthKorea_2016,KY996342.1,South Korea,2016,2000,50.25,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+300,KY996341.1_SouthKorea_2016,KY996341.1,South Korea,2016,2000,50.3,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+301,KY996340.1_SouthKorea_2016,KY996340.1,South Korea,2016,2000,50.35,0,Absent_in_Excel,FASTA_Header_Only,Cluster 1
+302,KY996339.1_SouthKorea_2016,KY996339.1,South Korea,2016,2000,50.25,0,Absent_in_Excel,FASTA_Header_Only,Cluster 2
+303,KY996338.1_SouthKorea_2016,KY996338.1,South Korea,2016,2000,50.35,0,Absent_in_Excel,FASTA_Header_Only,Cluster 1
+304,KY996337.1_SouthKorea_2016,KY996337.1,South Korea,2016,2000,50.1,0,Absent_in_Excel,FASTA_Header_Only,Cluster 6
+305,PX874131.1_Russia_2025,PX874131.1,Russia,2025,2000,50.4,0,Russia,Excel_Verified,Cluster 3
+306,PX874130.1_Russia_2025,PX874130.1,Russia,2025,2000,50.2,0,Russia,Excel_Verified,Cluster 3
+307,PX874129.1_Russia_2025,PX874129.1,Russia,2025,1999,50.18,0,Russia,Excel_Verified,Cluster 3
+308,PX874128.1_Russia_2025,PX874128.1,Russia,2025,2000,50.35,0,Russia,Excel_Verified,Cluster 3
+309,PX874127.1_Russia_2025,PX874127.1,Russia,2025,2000,50.05,0,Russia,Excel_Verified,Cluster 3
+310,PX874126.1_Russia_2025,PX874126.1,Russia,2025,2000,50.1,0,Russia,Excel_Verified,Cluster 6
+311,PX874125.1_Russia_2025,PX874125.1,Russia,2025,2000,50.3,0,Russia,Excel_Verified,Cluster 3
+312,PX874124.1_Russia_2025,PX874124.1,Russia,2025,2000,50.3,0,Russia,Excel_Verified,Cluster 3
+313,PX874123.1_Russia_2025,PX874123.1,Russia,2025,1999,50.58,0,Russia,Excel_Verified,Cluster 6
+314,PX874121.1_Russia_2024,PX874121.1,Russia,2024,2000,50.15,0,Russia,Excel_Verified,Cluster 6
+315,PX874122.1_Russia_2024,PX874122.1,Russia,2024,2000,50.3,0,Russia,Excel_Verified,Cluster 3
+316,PX874120.1_Russia_2024,PX874120.1,Russia,2024,2000,50.35,0,Russia,Excel_Verified,Cluster 3
+317,PX874119.1_Russia_2023,PX874119.1,Russia,2023,2000,49.95,0,Russia,Excel_Verified,Cluster 6
+318,PX874118.1_Russia_2023,PX874118.1,Russia,2023,2000,50.2,0,Russia,Excel_Verified,Cluster 3
+319,PX874117.1_Russia_2023,PX874117.1,Russia,2023,2001,50.47,0,Russia,Excel_Verified,Cluster 3
+320,PX874116.1_Russia_2023,PX874116.1,Russia,2023,2000,50.45,0,Russia,Excel_Verified,Cluster 3
+321,PX874115.1_Russia_2023,PX874115.1,Russia,2023,2000,50.6,0,Russia,Excel_Verified,Cluster 5
+322,PX874114.1_Russia_2023,PX874114.1,Russia,2023,2000,50.25,0,Russia,Excel_Verified,Cluster 5
+323,PX874113.1_Russia_2023,PX874113.1,Russia,2023,2000,50.15,0,Russia,Excel_Verified,Cluster 3
+324,PX874112.1_Russia_2023,PX874112.1,Russia,2023,2000,50.35,0,Russia,Excel_Verified,Cluster 3
+325,PX874111.1_Russia_2023,PX874111.1,Russia,2023,2000,50.3,0,Russia,Excel_Verified,Cluster 3
+326,PX874110.1_Russia_2023,PX874110.1,Russia,2023,2000,50.35,0,Russia,Excel_Verified,Cluster 3
+327,PX874109.1_Russia_2023,PX874109.1,Russia,2023,2000,50.1,0,Russia,Excel_Verified,Cluster 3
+328,PX874108.1_Russia_2023,PX874108.1,Russia,2023,2001,50.37,0,Russia,Excel_Verified,Cluster 3
+329,PX874107.1_Russia_2023,PX874107.1,Russia,2023,2000,50.35,0,Russia,Excel_Verified,Cluster 3
+330,PV753268.1_Portugal_2023,PV753268.1,Portugal,2023,2000,50.45,0,Portugal,Excel_Verified,Cluster 3
+331,OR479851.2_Portugal_2023,OR479851.2,Portugal,2023,2000,50.35,0,Portugal,Excel_Verified,Cluster 2
+332,PQ468884.1_Italy_2023,PQ468884.1,Italy,2023,2000,50.3,0,Italy,Excel_Verified,Cluster 3
+333,PQ468883.1_Italy_2023,PQ468883.1,Italy,2023,2000,50.3,0,Italy,Excel_Verified,Cluster 3
+334,PQ468881.1_Italy_2022,PQ468881.1,Italy,2022,2000,50.3,0,Italy,Excel_Verified,Cluster 3
+335,PQ468880.1_Italy_2022,PQ468880.1,Italy,2022,2000,50.25,0,Italy,Excel_Verified,Cluster 3
+336,PQ468879.1_Italy_2020,PQ468879.1,Italy,2020,2000,50.35,0,Italy,Excel_Verified,Cluster 2
+337,PQ468878.1_Italy_2023,PQ468878.1,Italy,2023,2000,50.35,0,Italy,Excel_Verified,Cluster 3
+338,PQ468877.1_Italy_2023,PQ468877.1,Italy,2023,2000,50.35,0,Italy,Excel_Verified,Cluster 3
+339,PQ468876.1_Italy_2023,PQ468876.1,Italy,2023,2000,50.25,0,Italy,Excel_Verified,Cluster 3
+340,PQ468875.1_Italy_2023,PQ468875.1,Italy,2023,2000,50.4,0,Italy,Excel_Verified,Cluster 3
+341,PQ468874.1_Italy_2023,PQ468874.1,Italy,2023,2000,50.2,0,Italy,Excel_Verified,Cluster 2
+342,PP998060.1_Vietnam_2023,PP998060.1,Vietnam,2023,2000,50.5,0,Vietnam,Excel_Verified,Cluster 2
+343,PP998059.1_Vietnam_2021,PP998059.1,Vietnam,2021,2000,50.15,0,Vietnam,Excel_Verified,Cluster 6
+344,PP998058.1_Vietnam_2021,PP998058.1,Vietnam,2021,2000,50.45,0,Vietnam,Excel_Verified,Cluster 2
+345,PP998057.1_Vietnam_2024,PP998057.1,Vietnam,2024,2000,50.2,0,Vietnam,Excel_Verified,Cluster 2
+346,PP998056.1_Vietnam_2021,PP998056.1,Vietnam,2021,2000,50.15,0,Vietnam,Excel_Verified,Cluster 6
+347,OR960673.1_Russia_2022,OR960673.1,Russia,2022,2000,50.4,0,Russia,Excel_Verified,Cluster 3
+348,OR960672.1_Russia_2022,OR960672.1,Russia,2022,2000,50.25,0,Russia,Excel_Verified,Cluster 6
+349,OR960671.1_Russia_2021,OR960671.1,Russia,2021,2000,50.05,1,Russia,Excel_Verified,Cluster 6
+350,OR960670.1_Russia_2021,OR960670.1,Russia,2021,2000,50.5,0,Russia,Excel_Verified,Cluster 3
+351,OQ557976.1_Taiwan_2021,OQ557976.1,Taiwan,2021,2000,50.05,0,Taiwan,Excel_Verified,Cluster 6
+352,OQ557975.1_Taiwan_2021,OQ557975.1,Taiwan,2021,2000,50.1,0,Taiwan,Excel_Verified,Cluster 6
+353,OQ557974.1_Taiwan_2021,OQ557974.1,Taiwan,2021,2000,50.1,0,Taiwan,Excel_Verified,Cluster 6
+354,OQ557973.1_Taiwan_2021,OQ557973.1,Taiwan,2021,2000,50.15,0,Taiwan,Excel_Verified,Cluster 6
+355,OQ557972.1_Taiwan_2021,OQ557972.1,Taiwan,2021,2000,50.15,0,Taiwan,Excel_Verified,Cluster 6
+356,OQ557971.1_Taiwan_2021,OQ557971.1,Taiwan,2021,2000,49.95,0,Taiwan,Excel_Verified,Cluster 6
+357,OQ557970.1_Taiwan_2021,OQ557970.1,Taiwan,2021,2000,50.0,0,Taiwan,Excel_Verified,Cluster 6
+358,OQ557969.1_Taiwan_2020,OQ557969.1,Taiwan,2020,2000,50.15,0,Taiwan,Excel_Verified,Cluster 6
+359,OQ557968.1_Taiwan_2021,OQ557968.1,Taiwan,2021,2000,50.15,0,Taiwan,Excel_Verified,Cluster 6
+360,OQ557967.1_Taiwan_2021,OQ557967.1,Taiwan,2021,2000,50.4,0,Taiwan,Excel_Verified,Cluster 6
+361,OQ557966.1_Taiwan_2020,OQ557966.1,Taiwan,2020,2000,50.1,0,Taiwan,Excel_Verified,Cluster 6
+362,OQ557965.1_Taiwan_2021,OQ557965.1,Taiwan,2021,1999,50.48,0,Taiwan,Excel_Verified,Cluster 6
+363,OQ557964.1_Taiwan_2021,OQ557964.1,Taiwan,2021,1999,50.48,0,Taiwan,Excel_Verified,Cluster 6
+364,OQ557963.1_Taiwan_2021,OQ557963.1,Taiwan,2021,2000,50.15,0,Taiwan,Excel_Verified,Cluster 6
+365,OQ557962.1_Taiwan_2021,OQ557962.1,Taiwan,2021,2000,50.25,0,Taiwan,Excel_Verified,Cluster 6
+366,OQ557961.1_Taiwan_2021,OQ557961.1,Taiwan,2021,2000,50.35,0,Taiwan,Excel_Verified,Cluster 6
+367,OQ557960.1_Taiwan_2021,OQ557960.1,Taiwan,2021,2000,50.35,0,Taiwan,Excel_Verified,Cluster 6
+368,ON376262.1_Poland_2017,ON376262.1,Poland,2017,2000,50.3,0,Poland/Spain,Geography_Conflict_Excel,Cluster 3
+369,ON376261.1_Poland_2016,ON376261.1,Poland,2016,2000,50.5,0,Poland/Spain,Geography_Conflict_Excel,Cluster 3
+370,ON376260.1_Poland_2015,ON376260.1,Poland,2015,2000,50.4,0,Poland/Spain,Geography_Conflict_Excel,Cluster 3
+371,ON376259.1_Poland_2016,ON376259.1,Poland,2016,2000,50.4,0,Poland/Spain,Geography_Conflict_Excel,Cluster 3
+372,ON376258.1_Poland_2018,ON376258.1,Poland,2018,2000,50.35,0,Poland/Spain,Geography_Conflict_Excel,Cluster 3
+373,ON376257.1_Poland_2015,ON376257.1,Poland,2015,2000,50.25,0,Poland/Spain,Geography_Conflict_Excel,Cluster 6
+374,ON376256.1_Poland_2017,ON376256.1,Poland,2017,2000,50.35,0,Poland/Spain,Geography_Conflict_Excel,Cluster 3
+375,ON376255.1_Poland_2018,ON376255.1,Poland,2018,2000,50.4,0,Poland,Excel_Verified,Cluster 2
+376,ON376254.1_Poland_2017,ON376254.1,Poland,2017,2000,50.3,0,Poland,Excel_Verified,Cluster 2
+377,ON376253.1_Poland_2016,ON376253.1,Poland,2016,2000,50.55,0,Poland,Excel_Verified,Cluster 2
+378,ON376252.1_Poland_2016,ON376252.1,Poland,2016,2000,50.35,0,Poland,Excel_Verified,Cluster 3
+379,ON376251.1_Poland_2017,ON376251.1,Poland,2017,2000,50.35,0,Poland,Excel_Verified,Cluster 2
+380,ON376250.1_Poland_2017,ON376250.1,Poland,2017,2000,50.3,0,Poland,Excel_Verified,Cluster 2
+381,ON376249.1_Poland_2017,ON376249.1,Poland,2017,2000,50.15,0,Poland,Excel_Verified,Cluster 3
+382,ON376248.1_Poland_2017,ON376248.1,Poland,2017,2000,50.4,0,Poland,Excel_Verified,Cluster 3
+383,ON376247.1_Poland_2016,ON376247.1,Poland,2016,2000,50.2,0,Poland,Excel_Verified,Cluster 6
+384,ON376246.1_Poland_2016,ON376246.1,Poland,2016,2000,50.6,0,Poland,Excel_Verified,Cluster 6
+385,OR059205.1_Vietnam_2022,OR059205.1,Vietnam,2022,2000,50.25,0,Vietnam,Excel_Verified,Cluster 2
+386,OQ533864.1_Poland_2021,OQ533864.1,Poland,2021,2004,50.25,4,Poland,Excel_Verified,Cluster 3
+387,OQ533865.1_Poland_2021,OQ533865.1,Poland,2021,2000,50.35,0,Poland,Excel_Verified,Cluster 3
+388,OQ533866.1_Poland_2021,OQ533866.1,Poland,2021,2000,50.25,2,Poland,Excel_Verified,Cluster 3
+389,OQ533867.1_Poland_2021,OQ533867.1,Poland,2021,2000,50.1,1,Poland,Excel_Verified,Cluster 3
+390,OQ533868.1_Poland_2021,OQ533868.1,Poland,2021,2000,50.35,0,Poland,Excel_Verified,Cluster 3
+391,OQ533869.1_Poland_2021,OQ533869.1,Poland,2021,2000,50.3,0,Poland,Excel_Verified,Cluster 3
+392,OQ533870.1_Poland_2021,OQ533870.1,Poland,2021,2000,50.35,0,Poland,Excel_Verified,Cluster 3
+393,OQ533871.1_Poland_2021,OQ533871.1,Poland,2021,2000,50.6,0,Poland,Excel_Verified,Cluster 3
+394,OQ533873.1_Poland_2021,OQ533873.1,Poland,2021,1999,50.28,1,Poland,Excel_Verified,Cluster 3
+395,OQ533872.1_Poland_2021,OQ533872.1,Poland,2021,1999,50.13,1,Poland,Excel_Verified,Cluster 3
+396,MG372488.1_China_2006,MG372488.1,China,2006,2000,50.45,0,China,Excel_Verified,Cluster 7
+397,MK814116.1_China_2006,MK814116.1,China,2006,2000,50.45,0,China,Excel_Verified,Cluster 6
+398,MG250178.1_China_2009,MG250178.1,China,2009,2000,50.2,0,China,Excel_Verified,Cluster 1
+399,MG250177.1_China_2009,MG250177.1,China,2009,2000,50.45,0,China,Excel_Verified,Cluster 2
+400,MW582507.1_China_2011,MW582507.1,China,2011,1999,50.58,0,China,Excel_Verified,Cluster 2
+401,MK814114.1_China_2013,MK814114.1,China,2013,2000,50.3,0,China,Excel_Verified,Cluster 6
+402,MG372489.1_China_2013,MG372489.1,China,2013,2000,50.05,0,China,Excel_Verified,Cluster 3
+403,MF589104.1_China_2015,MF589104.1,China,2015,2000,50.3,0,China,Excel_Verified,Cluster 2
+404,MH410562.1_China_2015,MH410562.1,China,2015,2000,50.3,0,China,Excel_Verified,Cluster 6
+405,MK347417.1_China_2015,MK347417.1,China,2015,2000,50.3,0,China,Excel_Verified,Cluster 6
+406,MF318452.1_China_2015,MF318452.1,China,2015,2000,50.35,0,China,Excel_Verified,Cluster 3
+407,MF318450.1_China_2015,MF318450.1,China,2015,2000,50.05,0,China,Excel_Verified,Cluster 3
+408,MN790776.1_China_2016,MN790776.1,China,2016,2000,49.85,0,China,Excel_Verified,Cluster 6
+409,MN790774.1_China_2016,MN790774.1,China,2016,2000,50.05,0,China,Excel_Verified,Cluster 6
+410,KY418606.2_China_2016,KY418606.2,China,2016,2000,50.35,0,China,Excel_Verified,Cluster 2
+411,MF069116.1_China_2016,MF069116.1,China,2016,2000,50.45,0,China,Excel_Verified,Cluster 2
+412,MF589105.1_China_2016,MF589105.1,China,2016,2000,50.4,0,China,Excel_Verified,Cluster 2
+413,KY354038.1_China_2016,KY354038.1,China,2016,2000,50.35,0,China,Excel_Verified,Cluster 6
+414,MH107163.1_China_2016,MH107163.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 2
+415,MH107161.1_China_2016,MH107161.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 2
+416,MG372491.1_China_2016,MG372491.1,China,2016,2000,50.4,0,China,Excel_Verified,Cluster 1
+417,MG372484.1_China_2016,MG372484.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 1
+418,KY075994.1_China_2016,KY075994.1,China,2016,2000,50.25,0,China,Excel_Verified,Cluster 6
+419,KY075992.1_China_2016,KY075992.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 6
+420,KY075986.1_China_2016,KY075986.1,China,2016,2000,50.4,0,China,Excel_Verified,Cluster 1
+421,MK142771.1_China_2016,MK142771.1,China,2016,2000,50.05,0,China,Excel_Verified,Cluster 6
+422,MH410563.1_China_2016,MH410563.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 6
+423,KY753912.1_China_2016,KY753912.1,China,2016,2000,50.05,0,China,Excel_Verified,Cluster 6
+424,MZ667331.1_China_2016,MZ667331.1,China,2016,2000,50.15,0,China,Excel_Verified,Cluster 6
+425,MN788151.1_China_2016,MN788151.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 3
+426,MN788131.1_China_2016,MN788131.1,China,2016,2000,50.05,0,China,Excel_Verified,Cluster 6
+427,MG860486.1_China_2016,MG860486.1,China,2016,2000,50.15,0,China,Excel_Verified,Cluster 2
+428,MG564175.1_China_2016,MG564175.1,China,2016,2000,50.35,0,China,Excel_Verified,Cluster 2
+429,MW582515.1_China_2016,MW582515.1,China,2016,2000,50.2,0,China,Excel_Verified,Cluster 2
+430,MF318453.1_China_2016,MF318453.1,China,2016,2000,50.3,0,China,Excel_Verified,Cluster 3
+431,MH367845.1_China_2017,MH367845.1,China,2017,2000,50.5,0,China,Excel_Verified,Cluster 2
+432,MH367849.1_China_2017,MH367849.1,China,2017,2000,50.5,0,China,Excel_Verified,Cluster 2
+433,KY865243.1_China_2017,KY865243.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 2
+434,MF084994.1_China_2017,MF084994.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 1
+435,MG902939.1_China_2017,MG902939.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 2
+436,MG902942.1_China_2017,MG902942.1,China,2017,2000,50.65,0,China,Excel_Verified,Cluster 2
+437,MT473944.1_China_2017,MT473944.1,China,2017,2000,50.55,0,China,Excel_Verified,Cluster 6
+438,MZ934695.1_China_2017,MZ934695.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 6
+439,KY354039.1_China_2017,KY354039.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 6
+440,KY075992.1_China_2017,KY075992.1,China,2017,2000,50.3,0,China,Excel_Verified,Cluster 6
+441,MG250180.1_China_2017,MG250180.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 2
+442,MG868942.1_China_2017,MG868942.1,China,2017,2000,50.45,0,China,Excel_Verified,Cluster 6
+443,MF069116.1_China_2017,MF069116.1,China,2017,2000,50.45,0,China,Excel_Verified,Cluster 2
+444,MF405274.1_China_2017,MF405274.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 2
+445,MK580467.1_China_2017,MK580467.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 2
+446,MG897487.1_China_2017,MG897487.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 2
+447,MF405272.1_China_2017,MF405272.1,China,2017,2000,50.55,0,China,Excel_Verified,Cluster 2
+448,MH491026.1_China_2017,MH491026.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 2
+449,MG253679.1_China_2017,MG253679.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 2
+450,MK178286.1_China_2017,MK178286.1,China,2017,2000,50.3,0,China,Excel_Verified,Cluster 1
+451,MF677838.1_China_2017,MF677838.1,China,2017,2000,50.45,0,China,Excel_Verified,Cluster 6
+452,KY418606.2_China_2017,KY418606.2,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 2
+453,MN067896.1_China_2017,MN067896.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 6
+454,MH177453.1_China_2017,MH177453.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 6
+455,MN788145.1_China_2017,MN788145.1,China,2017,2000,50.2,0,China,Excel_Verified,Cluster 2
+456,MN788126.1_China_2017,MN788126.1,China,2017,2000,50.15,0,China,Excel_Verified,Cluster 1
+457,MH184538.1_China_2017,MH184538.1,China,2017,2000,50.1,0,China,Excel_Verified,Cluster 6
+458,MH184539.1_China_2017,MH184539.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 6
+459,MH184533.1_China_2017,MH184533.1,China,2017,2000,50.2,0,China,Excel_Verified,Cluster 2
+460,MH184536.1_China_2017,MH184536.1,China,2017,2000,50.25,0,China,Excel_Verified,Cluster 6
+461,MH916636.1_China_2017,MH916636.1,China,2017,2000,50.3,0,China,Excel_Verified,Cluster 2
+462,MG696866.1_China_2017,MG696866.1,China,2017,2000,50.25,0,China,Excel_Verified,Cluster 6
+463,KY421348.1_China_2017,KY421348.1,China,2017,2000,50.3,0,China,Excel_Verified,Cluster 2
+464,MF589106.1_China_2017,MF589106.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 2
+465,MF589102.1_China_2017,MF589102.1,China,2017,2000,50.25,0,China,Excel_Verified,Cluster 6
+466,MG868943.1_China_2017,MG868943.1,China,2017,2000,50.3,0,China,Excel_Verified,Cluster 6
+467,MG250185.1_China_2017,MG250185.1,China,2017,2000,50.1,0,China,Excel_Verified,Cluster 6
+468,MG250181.1_China_2017,MG250181.1,China,2017,2000,50.55,0,China,Excel_Verified,Cluster 6
+469,KY075988.1_China_2017,KY075988.1,China,2017,2000,50.4,0,China,Excel_Verified,Cluster 1
+470,ON989005.1_China_2017,ON989005.1,China,2017,2000,50.35,0,China,Excel_Verified,Cluster 1
+471,MT582238.1_China_2018,MT582238.1,China,2018,2000,50.45,0,China,Excel_Verified,Cluster 6
+472,MH491030.1_China_2018,MH491030.1,China,2018,2000,50.3,0,China,Excel_Verified,Cluster 2
+473,MH823220.1_China_2018,MH823220.1,China,2018,2000,50.5,0,China,Excel_Verified,Cluster 2
+474,MH491021.1_China_2018,MH491021.1,China,2018,2000,50.4,0,China,Excel_Verified,Cluster 2
+475,MK178321.1_China_2018,MK178321.1,China,2018,2000,50.25,0,China,Excel_Verified,Cluster 2
+476,MK178314.1_China_2018,MK178314.1,China,2018,2000,50.25,0,China,Excel_Verified,Cluster 3
+477,MK178307.1_China_2018,MK178307.1,China,2018,2000,50.35,0,China,Excel_Verified,Cluster 3
+478,MK178280.1_China_2018,MK178280.1,China,2018,2000,50.35,0,China,Excel_Verified,Cluster 1
+479,MW757323.1_China_2018,MW757323.1,China,2018,2000,50.1,4,China,Excel_Verified,Cluster 2
+480,MG250184.1_China_2018,MG250184.1,China,2018,2000,50.45,0,China,Excel_Verified,Cluster 2
+481,MK746103.1_China_2018,MK746103.1,China,2018,2000,50.35,0,China,Excel_Verified,Cluster 1
+482,MT582235.1_China_2018,MT582235.1,China,2018,2000,50.05,0,China,Excel_Verified,Cluster 2
+483,MH491017.1_China_2018,MH491017.1,China,2018,2000,50.55,0,China,Excel_Verified,Cluster 2
+484,MK178317.1_China_2018,MK178317.1,China,2018,2000,50.45,0,China,Excel_Verified,Cluster 3
+485,OR503035.1_China_2018,OR503035.1,China,2018,2000,50.4,0,China,Excel_Verified,Cluster 6
+486,MW757320.1_China_2018,MW757320.1,China,2018,2000,50.35,0,China,Excel_Verified,Cluster 2
+487,MG250184.1_China_1996,MG250184.1,China,1996,2000,50.45,0,China,Excel_Verified,Cluster 2
+488,MH121060.1_China_2018,MH121060.1,China,2018,2000,50.45,0,China,Excel_Verified,Cluster 3
+489,MG650176.1_China_1996,MG650176.1,China,1996,2000,49.9,0,China,Excel_Verified,Cluster 6
+490,MG650175.1_China_1996,MG650175.1,China,1996,2000,49.95,0,China,Excel_Verified,Cluster 6
+491,MG650174.1_China_1998,MG650174.1,China,1998,1999,50.13,0,China,Excel_Verified,Cluster 6
+492,MG650173.1_China_1998,MG650173.1,China,1998,1999,50.13,0,China,Excel_Verified,Cluster 6
+493,MG650172.1_China_1998,MG650172.1,China,1998,2000,50.2,0,China,Excel_Verified,Cluster 1
+494,MT582240.1_China_2019,MT582240.1,China,2019,2000,50.2,0,China,Excel_Verified,Cluster 6
+495,MN848606.1_China_2019,MN848606.1,China,2019,2000,50.2,0,China,Excel_Verified,Cluster 6
+496,MN848595.1_China_2019,MN848595.1,China,2019,2000,50.2,0,China,Excel_Verified,Cluster 1
+497,MN848591.1_China_2019,MN848591.1,China,2019,2000,50.35,0,China,Excel_Verified,Cluster 1
+498,PP196470.1_China_2019,PP196470.1,China,2019,2004,50.4,0,China,Excel_Verified,Cluster 2
+499,MN788132.1_China_2019,MN788132.1,China,2019,2000,50.05,0,China,Excel_Verified,Cluster 2
