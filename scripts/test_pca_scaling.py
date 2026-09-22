@@ -1,11 +1,13 @@
+import os
 import pandas as pd
 import numpy as np
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 import matplotlib.pyplot as plt
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-df_snp = pd.read_csv('/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/snp_feature_matrix.csv', index_col=0)
+df_snp = pd.read_csv(BASE_DIR, index_col=0)
 
 print(f"Original SNP matrix shape: {df_snp.shape}")
 

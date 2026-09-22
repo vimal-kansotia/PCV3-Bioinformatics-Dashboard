@@ -6,16 +6,17 @@ from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 import os
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Publication plot settings
 plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
 plt.rcParams['font.family'] = 'sans-serif'
 plt.rcParams['font.size'] = 11
 
-snp_matrix_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/snp_feature_matrix.csv'
-master_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/master_metadata.csv'
-fig_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/figures'
-table_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables'
+snp_matrix_path = BASE_DIR
+master_path = BASE_DIR
+fig_dir = BASE_DIR
+table_dir = BASE_DIR
 
 print("="*60)
 print("PHASE 7 & 8 — PCA & K-MEANS UNSUPERVISED CLUSTERING")

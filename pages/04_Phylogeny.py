@@ -7,6 +7,7 @@ from PIL import Image
 
 from utils.styles import apply_custom_styles, render_header
 from utils.data_loader import load_master_data, render_sidebar_filters
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 st.set_page_config(page_title="PCV3 Analytics | Phylogeny & Distance", page_icon="🧬", layout="wide")
 apply_custom_styles()
@@ -47,7 +48,7 @@ tree_annotation = st.radio(
 
 col_tree, col_tree_info = st.columns([3, 2])
 
-fig_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/figures'
+fig_dir = os.path.join(BASE_DIR, 'results/figures')
 
 with col_tree:
     if tree_annotation == "Annotated by Country / Region":

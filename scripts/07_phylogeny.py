@@ -5,16 +5,17 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from Bio import SeqIO, Phylo
 from Bio.Phylo.BaseTree import BranchColor
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Publication plot settings
 plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
 plt.rcParams['font.family'] = 'sans-serif'
 plt.rcParams['font.size'] = 10
 
-aligned_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences_unique_ids.fasta'
-master_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/master_metadata.csv'
-tree_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/trees'
-fig_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/figures'
+aligned_fasta = os.path.join(BASE_DIR, 'fasta')
+master_path = BASE_DIR
+tree_dir = BASE_DIR
+fig_dir = BASE_DIR
 
 print("="*60)
 print("PHASE 11, 12, 13 — PHYLOGENETICS & GENETIC DISTANCE VISUALIZATION")

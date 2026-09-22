@@ -4,10 +4,11 @@ from Bio import SeqIO
 from collections import Counter
 import itertools
 import os
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-aligned_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences.fasta'
-raw_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/raw/viral_genome.fasta'
-out_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed'
+aligned_fasta = BASE_DIR
+raw_fasta = BASE_DIR
+out_dir = BASE_DIR
 
 print("="*60)
 print("PHASE 6 — FEATURE EXTRACTION")

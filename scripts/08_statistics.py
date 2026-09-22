@@ -4,15 +4,16 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from scipy.stats import chi2_contingency
 import os
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 # Publication plot settings
 plt.style.use('seaborn-v0_8-whitegrid' if 'seaborn-v0_8-whitegrid' in plt.style.available else 'default')
 plt.rcParams['font.family'] = 'sans-serif'
 plt.rcParams['font.size'] = 11
 
-master_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/master_metadata.csv'
-fig_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/figures'
-table_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables'
+master_path = BASE_DIR
+fig_dir = BASE_DIR
+table_dir = BASE_DIR
 
 print("="*60)
 print("PHASE 9 & 10 — GEOGRAPHICAL & TEMPORAL STATISTICAL ASSOCIATION")

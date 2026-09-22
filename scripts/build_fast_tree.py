@@ -1,9 +1,10 @@
 import os
 from Bio import SeqIO, Phylo
 from Bio.Phylo.TreeConstruction import DistanceCalculator, DistanceTreeConstructor
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-in_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences_unique_ids.fasta'
-tree_out = '/Users/vimalkansotia/Downloads/Bioinformatics/results/trees/pcv3_iqtree.treefile'
+in_fasta = os.path.join(BASE_DIR, 'fasta')
+tree_out = BASE_DIR
 
 if not os.path.exists(tree_out):
     print("Generating rapid Neighbor-Joining tree fallback while IQ-TREE completes...")

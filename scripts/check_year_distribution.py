@@ -1,8 +1,10 @@
+import os
 import pandas as pd
 from Bio import SeqIO
 from collections import Counter
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-fasta_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/raw/viral_genome.fasta'
+fasta_path = BASE_DIR
 
 records = list(SeqIO.parse(fasta_path, "fasta"))
 years = []

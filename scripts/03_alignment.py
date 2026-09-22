@@ -3,9 +3,10 @@ import os
 import numpy as np
 from Bio import SeqIO
 from collections import Counter
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-raw_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/raw/viral_genome.fasta'
-aligned_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences.fasta'
+raw_fasta = BASE_DIR
+aligned_fasta = BASE_DIR
 
 print("="*60)
 print("PHASE 4 — MULTIPLE SEQUENCE ALIGNMENT (MAFFT)")

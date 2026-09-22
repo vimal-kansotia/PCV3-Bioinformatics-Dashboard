@@ -5,10 +5,11 @@ import seaborn as sns
 from Bio import SeqIO
 from collections import Counter
 import os
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-aligned_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences.fasta'
-fig_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/figures'
-table_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables'
+aligned_fasta = BASE_DIR
+fig_dir = BASE_DIR
+table_dir = BASE_DIR
 
 print("="*60)
 print("PHASE 5 — GENOME VARIATION / SNP ANALYSIS")

@@ -2,10 +2,11 @@ import os
 import pandas as pd
 import numpy as np
 import streamlit as st
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
 @st.cache_data
 def load_master_data():
-    base_dir = '/Users/vimalkansotia/Downloads/Bioinformatics'
+    base_dir = BASE_DIR
     master_path = os.path.join(base_dir, 'data/processed/master_metadata.csv')
     pca_cluster_path = os.path.join(base_dir, 'results/tables/table02_cluster_assignments.csv')
     
@@ -36,16 +37,16 @@ def load_master_data():
 
 @st.cache_data
 def load_snp_summary():
-    path = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables/table01_snp_positions_summary.csv'
+    path = os.path.join(BASE_DIR, 'results/tables/table01_snp_positions_summary.csv')
     if os.path.exists(path):
         return pd.read_csv(path)
     return pd.DataFrame()
 
 @st.cache_data
 def load_contingency_tables():
-    base_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables'
-    path_geo = os.path.join(base_dir, 'table03_cluster_country_contingency.csv')
-    path_year = os.path.join(base_dir, 'table04_cluster_year_contingency.csv')
+    base_dir = BASE_DIR
+    path_geo = os.path.join(base_dir, 'results/tables/table03_cluster_country_contingency.csv')
+    path_year = os.path.join(base_dir, 'results/tables/table04_cluster_year_contingency.csv')
     
     ct_geo = pd.read_csv(path_geo, index_col=0) if os.path.exists(path_geo) else None
     ct_year = pd.read_csv(path_year, index_col=0) if os.path.exists(path_year) else None

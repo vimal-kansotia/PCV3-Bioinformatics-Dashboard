@@ -1,8 +1,9 @@
 import os
 import re
 from pptx import Presentation
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-pptx_path = '/Users/vimalkansotia/Downloads/Bioinformatics/presentation/PCV3_analysis.pptx'
+pptx_path = BASE_DIR
 prs = Presentation(pptx_path)
 
 print("="*60)

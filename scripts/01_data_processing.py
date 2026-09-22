@@ -2,10 +2,11 @@ import pandas as pd
 import numpy as np
 from Bio import SeqIO
 import os
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-fasta_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/raw/viral_genome.fasta'
-excel_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/raw/accessions.csv.xlsx'
-out_path = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/master_metadata.csv'
+fasta_path = BASE_DIR
+excel_path = BASE_DIR
+out_path = BASE_DIR
 
 # Load Excel metadata
 df_excel = pd.read_excel(excel_path)

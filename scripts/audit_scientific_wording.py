@@ -1,7 +1,8 @@
 import os
 import glob
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-search_dir = '/Users/vimalkansotia/Downloads/Bioinformatics'
+search_dir = BASE_DIR
 strong_words = ['concordant', 'corroborate', 'cause', 'caused', 'origin', 'transmission', 'molecular clock', 'evolutionary rate']
 
 found_issues = []

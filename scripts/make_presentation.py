@@ -5,9 +5,10 @@ from pptx.util import Inches, Pt
 from pptx.dml.color import RGBColor
 from pptx.enum.text import PP_ALIGN
 from pptx.enum.shapes import MSO_SHAPE
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-fig_dir = '/Users/vimalkansotia/Downloads/Bioinformatics/results/figures'
-out_pptx = '/Users/vimalkansotia/Downloads/Bioinformatics/presentation/PCV3_analysis.pptx'
+fig_dir = BASE_DIR
+out_pptx = BASE_DIR
 
 prs = Presentation()
 prs.slide_width = Inches(13.333)

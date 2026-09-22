@@ -5,6 +5,7 @@ import os
 
 from utils.styles import apply_custom_styles, render_header
 from utils.data_loader import load_master_data, render_sidebar_filters
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 st.set_page_config(page_title="PCV3 Genome Analytics Dashboard", page_icon="🧬", layout="wide")
 apply_custom_styles()
@@ -84,7 +85,7 @@ with d_col1:
     )
 
 with d_col2:
-    pca_cluster_path = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables/table02_cluster_assignments.csv'
+    pca_cluster_path = os.path.join(BASE_DIR, 'results/tables/table02_cluster_assignments.csv')
     if os.path.exists(pca_cluster_path):
         with open(pca_cluster_path, 'rb') as f:
             st.download_button(
@@ -96,7 +97,7 @@ with d_col2:
             )
 
 with d_col3:
-    snp_summary_path = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables/table01_snp_positions_summary.csv'
+    snp_summary_path = os.path.join(BASE_DIR, 'results/tables/table01_snp_positions_summary.csv')
     if os.path.exists(snp_summary_path):
         with open(snp_summary_path, 'rb') as f:
             st.download_button(
@@ -108,7 +109,7 @@ with d_col3:
             )
 
 with d_col4:
-    qc_summary_path = '/Users/vimalkansotia/Downloads/Bioinformatics/results/tables/table00_qc_summary.csv'
+    qc_summary_path = os.path.join(BASE_DIR, 'results/tables/table00_qc_summary.csv')
     if os.path.exists(qc_summary_path):
         with open(qc_summary_path, 'rb') as f:
             st.download_button(

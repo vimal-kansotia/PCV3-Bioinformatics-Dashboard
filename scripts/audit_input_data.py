@@ -1,10 +1,12 @@
+import os
 import pandas as pd
 import numpy as np
 from Bio import SeqIO
 from collections import Counter
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-fasta_path = '/Users/vimalkansotia/Downloads/Bioinformatics/viral_genome.fasta'
-excel_path = '/Users/vimalkansotia/Downloads/Bioinformatics/accessions.csv.xlsx'
+fasta_path = BASE_DIR
+excel_path = BASE_DIR
 
 print("==================================================")
 print("COMPREHENSIVE INPUT DATA AUDIT")

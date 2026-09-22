@@ -1,7 +1,8 @@
 import os
 import pandas as pd
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-base_dir = '/Users/vimalkansotia/Downloads/Bioinformatics'
+base_dir = BASE_DIR
 
 files_to_check = {
     'Filtered Metadata CSV': os.path.join(base_dir, 'data/processed/master_metadata.csv'),

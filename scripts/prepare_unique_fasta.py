@@ -1,8 +1,9 @@
 import os
 from Bio import SeqIO
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 
-in_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences.fasta'
-out_fasta = '/Users/vimalkansotia/Downloads/Bioinformatics/data/processed/aligned_sequences_unique_ids.fasta'
+in_fasta = BASE_DIR
+out_fasta = os.path.join(BASE_DIR, 'fasta')
 
 records = list(SeqIO.parse(in_fasta, "fasta"))
 unique_records = []
